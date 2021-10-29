@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
-{% incluye 01-miledys.md %}
+{% include 01-name.md%}
